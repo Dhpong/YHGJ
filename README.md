@@ -16,4 +16,5 @@ web前端代码：vue-admin-master运行
 
 
 技术栈：vue + +axios + element-ui +node.js + mysql +websocket通讯协议
+
 特点：websocket实时展示数据并监控设备。
