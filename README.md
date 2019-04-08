@@ -7,6 +7,7 @@ node1:
 
 
 
+
 vue-admin-master：
 
 1.npm install
