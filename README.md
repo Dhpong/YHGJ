@@ -5,4 +5,4 @@ node1:
 
 vue-admin-master：
 1.npm install
-2.vue-admin:运行： npm run dev
+2.运行： npm run dev
